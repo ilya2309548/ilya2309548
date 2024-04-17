@@ -4,7 +4,7 @@
 
 I live in Moscow and am a first-year student at NUST MISIS in the field of Computer Science and Computer Engineering.
 
-Skills: C++/Phyton
+Skills: C++/Python
 
 - 🔭 I’m currently working on creating custom data types 
 
