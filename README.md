@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Ilya
 #### I am a beginner programmer
-![I am a beginner programmer](https://326605.selcdn.ru/03005/iblock/36a/Logo_rus_1.jpg)
 
 I live in Moscow and am a second-year student at NUST MISIS in the field of Computer Science and Computer Engineering.
 
