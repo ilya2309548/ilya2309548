@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Ilya
 #### I am a beginner programmer
 
-I live in Moscow and am a second-year student at NUST MISIS in the field of Computer Science and Computer Engineering.
+I live in Moscow and am a third-year student at NUST MISIS in the field of Computer Science and Computer Engineering.
 
 Skills: C++/Python
 
